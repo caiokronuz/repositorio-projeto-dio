@@ -12,7 +12,8 @@ O git é uma sistema de controle de versões distribuido. Esse sistema possui a 
 - Github
 
 O github é uma "rede social" voltada a profissionais de T.I cuja tecnologia que o sustenta é o **git**. O mesmo serve fundamentalmente para facilitar o controle de versões de um software ou aplicação
-Portanto ##GIT != GITHUB
+Portanto,
+ ##GIT != GITHUB
 
 [Github guide](https://docs.github.com/en/get-started/quickstart/hello-world)
 
